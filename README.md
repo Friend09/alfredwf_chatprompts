@@ -6,3 +6,7 @@ Currently the provided .alfredworkflow file uses an input item that has been pre
 
 For an advanced workflow that auto fetches the prompts data, there is an advanced workflow from
 this repo by [bluewolfai](https://github.com/bluewolfali/awesome-chatgpt-prompts-alfred)
+
+## Attributes
+
+The icon used for Prompts needs attribution to the creator <a href="https://www.flaticon.com/free-icons/cmd" title="cmd icons">Cmd icons created by juicy_fish - Flaticon</a>
